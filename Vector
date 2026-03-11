@@ -1,1 +1,678 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _weVxbOaPwfzJ = a; end)); return(function(s,...)local o;local d;local r;local u;local t;local a;local e=24915;local n=0;local l={};while n<713 do n=n+1;while n<0x160 and e%0x4ccc<0x2666 do n=n+1 e=(e*321)%36250 local f=n+e if(e%0x42de)<=0x216f then e=(e+0x70)%0x71ad while n<0x33f and e%0x26b6<0x135b do n=n+1 e=(e*821)%31062 local d=n+e if(e%0x22f6)<0x117b then e=(e*0x2ca)%0x984d local e=43937 if not l[e]then l[e]=0x1 r={};end elseif e%2~=0 then e=(e-0x51)%0x830 local e=68177 if not l[e]then l[e]=0x1 o=string;end else e=(e*0x22)%0xa02e n=n+1 local e=29381 if not l[e]then l[e]=0x1 end end end elseif e%2~=0 then e=(e-0x1c7)%0x9627 while n<0x1ad and e%0x82c<0x416 do n=n+1 e=(e+51)%38490 local f=n+e if(e%0x3584)<0x1ac2 then e=(e+0x3b7)%0xbb45 local e=68126 if not l[e]then l[e]=0x1 t=function(l)local e=0x01 local function n(n)e=e+n return l:sub(e-n,e-0x01)end while true do local l=n(0x01)if(l=="\5")then break end local e=o.byte(n(0x01))local e=n(e)if l=="\2"then e=r.SaeRLuVp(e)elseif l=="\3"then e=e~="\0"elseif l=="\6"then d[e]=function(e,n)return s(8,nil,s,n,e)end elseif l=="\4"then e=d[e]elseif l=="\0"then e=d[e][n(o.byte(n(0x01)))];end local n=n(0x08)r[n]=e end end end elseif e%2~=0 then e=(e*0x65)%0x3076 local e=81648 if not l[e]then l[e]=0x1 a="\4\8\116\111\110\117\109\98\101\114\83\97\101\82\76\117\86\112\0\6\115\116\114\105\110\103\4\99\104\97\114\71\105\98\70\82\121\79\72\0\6\115\116\114\105\110\103\3\115\117\98\116\79\112\85\69\87\81\73\0\6\115\116\114\105\110\103\4\98\121\116\101\122\112\79\116\84\115\121\122\0\5\116\97\98\108\101\6\99\111\110\99\97\116\69\117\67\107\113\71\104\120\0\5\116\97\98\108\101\6\105\110\115\101\114\116\110\90\72\97\115\88\101\89\5";end else e=(e+0x2c1)%0x131e n=n+1 local e=93191 if not l[e]then l[e]=0x1 end end end else e=(e+0x31c)%0xae1d n=n+1 while n<0x1ae and e%0x3628<0x1b14 do n=n+1 e=(e+92)%40003 local t=n+e if(e%0x1a18)<0xd0c then e=(e*0x335)%0x3910 local e=20728 if not l[e]then l[e]=0x1 d=(not d)and _ENV or d;end elseif e%2~=0 then e=(e*0x1f8)%0x8080 local e=72913 if not l[e]then l[e]=0x1 u=tonumber;end else e=(e-0x264)%0x130b n=n+1 local e=73014 if not l[e]then l[e]=0x1 d=getfenv and getfenv();end end end end end e=(e*84)%630 end t(a);local e={};for n=0x0,0xff do local l=r.GibFRyOH(n);e[n]=l;e[l]=n;end local function c(n)return e[n];end local a=(function(a,t)local f,l=0x01,0x10 local n={{},{},{}}local d=-0x01 local e=0x01 local o=a while true do n[0x03][r.tOpUEWQI(t,e,(function()e=f+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""l=0x000 break end end local d=#t while e<d+0x01 do n[0x02][l]=r.tOpUEWQI(t,e,(function()e=f+e return e-0x01 end)())l=l+0x01 if l%0x02==0x00 then l=0x00 r.nZHasXeY(n[0x01],(c((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+o)%0x100)));o=a+o;end end return r.EuCkqGhx(n[0x01])end);t(a(201,"ig:8A&%#?dov_!V 8_"));t(a(86,"7wm-%Za_p;4&Su,y44Z4_wwSS%aZw%&_y,OpS-aZwm&Ka&,wpya-h4;BZp4B%&aAyu4ZZ4b%44%uu,pymS,P4m%_;-%wZaAm4-ZmsmpuZ&uppS-m,u;_Zppp-p%yy44m%-ym;Zuu,ypu%4,-;mw_,&_--;SZ;4-4Smm%um,Zp-%ru,mZ-aupp-%d,m_u-;&up4Xp,-a-wS_smm--Syppm&Supawuu4_wwSuP_-w4&-aam4SSZ%yuum+S&;&ma&w-S,_-m}p&aum%&Za4mmS,aa,SZa#iwu&wa-wp;Z%y1-;%Zpwm&_Z445%;m&Xwp,am,w;S-_,4;pyU;,&%Z;Q_&mZ4y&44%u,ppmZmBZ44%pSy;y,2py4p-y,4;,%wpS4Z%py%py-&,up-%4SZ_w%S,%;,m-pimS%Z,p;%myu&pumuy)_;w;,-p;-i,mmnS&,UpSmuuSpS9Z&Z_,m-uma%M;&,waSmu;_ZmaS;_wmSuZZpm&44a&m&S&%4&maE_-wwS,aS&-&,a,w&SZ_mwuS_aaw-;;apypS;yy"));local e=(-1329+(function()local d,e=0,1;(function(e,l,n,d)e(l(d,d,e,n),n(n,n,e and n,l)and l(l,n,e and l,e),n(e,d,d,e),l(e and e,n,e,d))end)(function(t,l,o,n)if d>317 then return n end d=d+1 e=(e*703)%2280 if(e%200)>100 then e=(e+656)%5715 return n else return o(n(o,t,l,o),l(t,l,n and l,t),l(t,l,t,n),l(o,l,l,l)and l(t,l,n,n))end return t(t(n,t,o and n,n),l(o,o,n,t),n(l,n,o,n),o(t,l and n,n,o and l))end,function(o,t,l,n)if d>115 then return t end d=d+1 e=(e-245)%17427 if(e%736)<368 then return l(n(n,l,n,l),n(t,t,o,t),l(t,n,n and o,l),o(n,o,l,t))else return t end return l end,function(l,t,o,n)if d>271 then return n end d=d+1 e=(e+683)%49683 if(e%496)>248 then e=(e+596)%49263 return n(n(o,n,t,t)and n(n,l,o,t),l(t,t,l,l),t(l,l,o,l),n(l and n,n,t,o and n))else return n end return o end,function(t,o,l,n)if d>168 then return t end d=d+1 e=(e*243)%22834 if(e%1046)<=523 then return n(n(l,l and n,o,n),l(o,n and o,t,o),n(l,n,t,n),n(o,t,n,n))else return t end return l end)return e;end)())local c=r.azYOokhp or r.WtEGxfvQ;local le=(getfenv)or(function()return _ENV end);local t=3;local ne=1;local d=2;local f=4;local function g(b,...)local a=a(e,"O?AkI<v#cVsZKR7osRIJ7ecQA_KRvdf^suVo<#7<#vkcKAIo1?VQ<#7vVsMsvq?VsTIQ7JKRcoAoK7<kl<skkoRkVIkAKVv7t#ZkAc7VcIAIK<v77?ZI<IoAAhKIv_dQslcZIV7kcZK1vISmswI6I#7?cRA<vBHIs4Iw7J7Vc7AvKoxns<Ih7.c9cIA<KA#<N#IP7#c*A4KFZmvKS?ZVI<oAVkKBvZEzs^Ibkk7?cvA<c0vI?<sII<s7I7K%c#CCspI.kI7ccVkkchvvqVsKI<s(V#A?RkAj?tZAIooIc<AkRIv<uIv4<#7VVIAccBIR,osoI7Rkc<Akch<vRkIA7wc+A5KqvSwPV%#o7)cZAjK_v_IKboskI?7K#:AKK?#V:<ZA7&c<AaKjvJ#gYks?IK7KA}K?v9T0s/sK7gVsAbKdvB >ZIIE7dcPA?K_vhD&ZAI#7-cpA*KAv);6sW<Ao?c^A_Kfv?n-s/I9CvcVA/KpvXFvsqI?7)cVA=KIc<9QseIj7vc>A?KxvIA<s4IQ7lc#AYK?v+UNs<I37Sc4A?KwvxH4ZAIZ7Wc5A.Kvv/y(s)vJ7vcjA4KMvE,1s<IqoAcsAWK?vBMsseI47NVAAoKmvA4{sRI87hcQAFKZvrrTsyIA7GcAA%7v#b3UszI5ovc9A?KHvsUesIv<7tc/AhRvvJC?s><A7ZceAnKWvIuYsxI201V<AMK>vzuzs6I#7FsTkcK}vrX5s.Ih7ZcSI3KAvUeps*I97)ckA^RA#K&BsAI07cc%A2K v6?vsxIz72cAAYK?vNeIK<I+7dcwkIK4v?DfsIv<7ncxA1Rvv=i?s9<A7Zc=ArK;vKu&sqI{7AVkA-K?vtGHszIf7HcTkoK/v/j3sAIW7?cDAERkvhr1stI?7jc/AmK?vz%)s&II7CctA)K8vIeFs{IFI#7?cRA<v(;#seI&7/KcVIkIR+I#3<ZI7=Z#ADKGv^vc?IZI</ok<s7oco#A/?Z#U77#cVkIKc#<xAZ<<k7<VAAkKov7?Is<I7oII7AkKovRKoccIR7RcRoAV?kkKo#?*o7Rc?AVK7Ao7?Zs<c7kckkkv(yssGI-787KcoA?KI#k?IZAIV77c#KWvc)(s^IFoAcIANKzvBMIsXIN7wVAA7K_v?/Ys?I97nciIWRZvu:?s(I?7&cAA1RAv<1 skIq7kc)A,Kgv:0os2I?7YckAaKwvz2ys#I47NceA>K.vA4Cs.I77_c}A%K?vn:?sqIX7<cqACK3v?&_sFIL7Jc!AxKB");local n=0;r.haHOBLd_(function()r.GWaHbrmf()n=n+1 end)local function e(e,l)if l then return n end;n=e+n;end local l,n,h=s(0,s,e,a,r.zpOtTsyz);local function o()local l,n=r.zpOtTsyz(a,e(1,3),e(5,6)+2);e(2);return(n*256)+l;end;local k=true;local k=0 local function _()local d=n();local e=n();local t=1;local d=(l(e,1,20)*(2^32))+d;local n=l(e,21,31);local e=((-1)^l(e,32));if(n==0)then if(d==k)then return e*0;else n=1;t=0;end;elseif(n==2047)then return(d==0)and(e*(1/0))or(e*(0/0));end;return r.asMpDuKZ(e,n-1023)*(t+(d/(2^52)));end;local p=n;local function m(n)local l;if(not n)then n=p();if(n==0)then return'';end;end;l=r.tOpUEWQI(a,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+k),#l do e=e..r.tOpUEWQI(l,n,n)end return e;end;local p=#r.XHnwrfCi(u('\49.\48'))~=1 local e=n;local function ee(...)return{...},r.sLuJawmB('#',...)end local function j()local e={};local u={};local k={};local s={k,u,nil,e};local e=n()local a={}for d=1,e do local l=h();local n;if(l==1)then n=(h()~=#{});elseif(l==2)then local e=_();if p and r.CmKgItjH(r.XHnwrfCi(e),'.(\48+)$')then e=r.sshkGlRy(e);end n=e;elseif(l==0)then n=m();end;a[d]=n;end;s[3]=h();for u=1,n()do local e=h();if(l(e,1,1)==0)then local r=l(e,2,3);local c=l(e,4,6);local e={o(),o(),nil,nil};if(r==0)then e[t]=o();e[f]=o();elseif(r==#{1})then e[t]=n();elseif(r==b[2])then e[t]=n()-(2^16)elseif(r==b[3])then e[t]=n()-(2^16)e[f]=o();end;if(l(c,1,1)==1)then e[d]=a[e[d]]end if(l(c,2,2)==1)then e[t]=a[e[t]]end if(l(c,3,3)==1)then e[f]=a[e[f]]end k[u]=e;end end;for e=1,n()do u[e-(#{1})]=j();end;return s;end;local function g(l,e,n)local d=e;local d=n;return u(r.CmKgItjH(r.CmKgItjH(({r.haHOBLd_(l)})[2],e),n))end local function p(b,e,h)local function le(...)local a,m,o,g,k,l,u,z,_,y,j,n;local e=0;while-1<e do if 3>e then if e<1 then a=s(6,62,1,33,b);m=s(6,24,2,19,b);else if-1~=e then repeat if 1<e then l=-41;u=-1;break;end;o=s(6,74,3,62,b);k=ee g=0;until true;else o=s(6,74,3,62,b);k=ee g=0;end end else if 4<e then if e==5 then n=s(7);else e=-2;end else if e~=0 then repeat if e>3 then y=r.sLuJawmB('#',...)-1;j={};break;end;z={};_={...};until true;else z={};_={...};end end end e=e+1;end;for e=0,y do if(e>=o)then z[e-o]=_[e+1];else n[e]=_[e+1];end;end;local e=y-o+1 local e;local o;local function r(...)while true do end end while true do if l<-40 then l=l+42 end e=a[l];o=e[ne];if o>18 then if 28<o then if o<=33 then if 31<=o then if o>31 then if 30~=o then for l=32,73 do if o<33 then n[e[d]]();break;end;n[e[d]]();break;end;else n[e[d]]();end else local t;t=e[d]n[t](n[t+1])l=l+1;e=a[l];do return end;end else if o>26 then for r=23,92 do if 30~=o then if(n[e[d]]~=e[f])then l=l+1;else l=e[t];end;break;end;n[e[d]]=n[e[t]][e[f]];break;end;else if(n[e[d]]~=e[f])then l=l+1;else l=e[t];end;end end else if 36>o then if 33<=o then for l=15,80 do if 35>o then n[e[d]]=(e[t]~=0);break;end;n[e[d]]=n[e[t]][e[f]];break;end;else n[e[d]]=n[e[t]][e[f]];end else if o>36 then if o~=33 then for n=21,90 do if o~=37 then do return end;break;end;l=e[t];break;end;else do return end;end else local e=e[d]n[e](n[e+1])end end end else if o<24 then if 21<=o then if 22<=o then if 20~=o then for l=26,90 do if o<23 then local e=e[d]n[e]=n[e](c(n,e+1,u))break;end;local l=e[d]n[l](c(n,l+1,e[t]))break;end;else local l=e[d]n[l](c(n,l+1,e[t]))end else local o,h;for r=0,4 do if r<=1 then if-4<r then for o=33,71 do if 0<r then n[e[d]]=n[e[t]][e[f]];l=l+1;e=a[l];break;end;n[e[d]]=n[e[t]][e[f]];l=l+1;e=a[l];break;end;else n[e[d]]=n[e[t]][e[f]];l=l+1;e=a[l];end else if 3<=r then if r>2 then repeat if 4~=r then n(e[d],e[t]);l=l+1;e=a[l];break;end;o=e[d]n[o](c(n,o+1,e[t]))until true;else n(e[d],e[t]);l=l+1;e=a[l];end else o=e[d];h=n[e[t]];n[o+1]=h;n[o]=h[e[f]];l=l+1;e=a[l];end end end end else if o~=18 then for r=16,71 do if 20>o then n[e[d]]=p(m[e[t]],nil,h);break;end;for o=0,3 do if o<=1 then if o~=1 then n[e[d]]=(e[t]~=0);l=l+1;e=a[l];else h[e[t]]=n[e[d]];l=l+1;e=a[l];end else if 0~=o then repeat if o~=2 then if(n[e[d]]==e[f])then l=l+1;else l=e[t];end;break;end;n[e[d]]=h[e[t]];l=l+1;e=a[l];until true;else if(n[e[d]]==e[f])then l=l+1;else l=e[t];end;end end end break;end;else n[e[d]]=p(m[e[t]],nil,h);end end else if o<26 then if 22<=o then for r=49,79 do if o~=25 then l=e[t];break;end;local l=e[d]n[l]=n[l](c(n,l+1,e[t]))break;end;else local l=e[d]n[l]=n[l](c(n,l+1,e[t]))end else if o<27 then local l=e[d]local d,e=k(n[l](c(n,l+1,e[t])))u=e+l-1 local e=0;for l=l,u do e=e+1;n[l]=d[e];end;else if 24<o then repeat if 28>o then h[e[t]]=n[e[d]];break;end;local l=e[d]n[l]=n[l](c(n,l+1,e[t]))until true;else h[e[t]]=n[e[d]];end end end end end else if 8>=o then if o<=3 then if 1>=o then if o>-3 then for r=21,80 do if 1>o then if(n[e[d]]~=e[f])then l=l+1;else l=e[t];end;break;end;local o,a,r,c,f;local l=0;while l>-1 do if 2<l then if 4<l then if l>4 then repeat if l~=6 then n(f,c);break;end;l=-2;until true;else l=-2;end else if-1<l then for e=32,66 do if 3<l then f=o[a];break;end;c=o[r];break;end;else f=o[a];end end else if l<=0 then o=e;else if l~=-3 then repeat if 2>l then a=d;break;end;r=t;until true;else r=t;end end end l=l+1 end break;end;else local o,f,a,c,r;local l=0;while l>-1 do if 2<l then if 4<l then if l>4 then repeat if l~=6 then n(r,c);break;end;l=-2;until true;else l=-2;end else if-1<l then for e=32,66 do if 3<l then r=o[f];break;end;c=o[a];break;end;else r=o[f];end end else if l<=0 then o=e;else if l~=-3 then repeat if 2>l then f=d;break;end;a=t;until true;else a=t;end end end l=l+1 end end else if 3>o then n(e[d],e[t]);else local e=e[d]n[e](n[e+1])end end else if o<=5 then if o~=1 then for r=40,53 do if o>4 then do return end;break;end;local o,b,m,p,s;for r=0,6 do if 3<=r then if r<5 then if r>=-1 then for f=29,74 do if r>3 then o=e[d]m,p=k(n[o](c(n,o+1,e[t])))u=p+o-1 s=0;for e=o,u do s=s+1;n[e]=m[s];end;l=l+1;e=a[l];break;end;n(e[d],e[t]);l=l+1;e=a[l];break;end;else n(e[d],e[t]);l=l+1;e=a[l];end else if 4<r then for t=20,86 do if r<6 then o=e[d]n[o]=n[o](c(n,o+1,u))l=l+1;e=a[l];break;end;n[e[d]]();break;end;else o=e[d]n[o]=n[o](c(n,o+1,u))l=l+1;e=a[l];end end else if r>=1 then if r~=1 then o=e[d];b=n[e[t]];n[o+1]=b;n[o]=b[e[f]];l=l+1;e=a[l];else n[e[d]]=h[e[t]];l=l+1;e=a[l];end else n[e[d]]=h[e[t]];l=l+1;e=a[l];end end end break;end;else do return end;end else if 7<=o then if o>6 then for r=47,94 do if 8~=o then if(n[e[d]]==e[f])then l=l+1;else l=e[t];end;break;end;local l=e[d]n[l](c(n,l+1,e[t]))break;end;else if(n[e[d]]==e[f])then l=l+1;else l=e[t];end;end else local r;for o=0,4 do if o<2 then if-3<o then repeat if 0~=o then n(e[d],e[t]);l=l+1;e=a[l];break;end;n[e[d]]=n[e[t]][e[f]];l=l+1;e=a[l];until true;else n(e[d],e[t]);l=l+1;e=a[l];end else if o<=2 then n(e[d],e[t]);l=l+1;e=a[l];else if o>3 then if(n[e[d]]~=e[f])then l=l+1;else l=e[t];end;else r=e[d]n[r]=n[r](c(n,r+1,e[t]))l=l+1;e=a[l];end end end end end end end else if 14<=o then if 16<=o then if o<=16 then local l=e[d]local d,e=k(n[l](c(n,l+1,e[t])))u=e+l-1 local e=0;for l=l,u do e=e+1;n[l]=d[e];end;else if 17~=o then n[e[d]]=p(m[e[t]],nil,h);else h[e[t]]=n[e[d]];end end else if o>13 then for l=43,52 do if o<15 then local e=e[d]n[e]=n[e](c(n,e+1,u))break;end;n[e[d]]=h[e[t]];break;end;else n[e[d]]=h[e[t]];end end else if o>=11 then if 12<=o then if 13~=o then local l=e[d];local d=n[e[t]];n[l+1]=d;n[l]=d[e[f]];else local l=e[d];local d=n[e[t]];n[l+1]=d;n[l]=d[e[f]];end else n[e[d]]=h[e[t]];end else if o>9 then n[e[d]]=(e[t]~=0);else if(n[e[d]]==e[f])then l=l+1;else l=e[t];end;end end end end end l=1+l;end;end;return le end;local t=0xff;local h={};local a=(1);local d='';(function(n)local l=n local o=0x00 local e=0x00 l={(function(d)if o>0x1e then return d end o=o+1 e=(e+0xb9e-d)%0x30 return(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x2f);end return true end)'grSmx'and l[0x2](0x1d3+d))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x5d);end return true end)'UtsOi'and l[0x3](d+0x246))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xeb);h[a]=le();a=a+t;end return true end)'fUPSx'and l[0x1](d+0x2d4))or d end),(function(f)if o>0x1f then return f end o=o+1 e=(e+0x1045-f)%0x4d return(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x1a);d={d..'\58 a',d};h[a]=j();a=a+((not r.duAEolHf)and 1 or 0);d[1]='\58'..d[1];t[2]=0xff;end return true end)'GDAPF'and l[0x3](0x229+f))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xf1);end return true end)'CTvao'and l[0x2](f+0x26c))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xeb);t[2]=(t[2]*(g(function()h()end,c(d))-g(t[1],c(d))))+1;h[a]={};t=t[2];a=a+t;end return true end)'VTWb_'and l[0x1](f+0x28a))or f end),(function(r)if o>0x28 then return r end o=o+1 e=(e+0x8bd-r)%0x4d return(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x9f);end return true end)'FWxGX'and l[0x1](0x22b+r))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xab);d='\37';t={function()t()end};d=d..'\100\43';end return true end)'ztFZP'and l[0x2](r+0x278))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x71);end return true end)'mYwTu'and l[0x3](r+0x39b))or r end)}l[0x3](0xecc)end){};local e=p(c(h));return e(...);end return g((function()local n={}local e=0x01;local l;if r.duAEolHf then l=r.duAEolHf(g)else l=''end if r.CmKgItjH(l,r.UyLVRccz)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(l,e,n,d,t,o)local o;if l>3 then if l>5 then if l<7 then do return t[n]end;else if 5<l then for e=46,84 do if l>7 then do return n(l,nil,n);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,d,l,t,n)if n then return e[n]elseif t then return e else e[d]=l end end})end break;end;else do return n(l,nil,n);end end end else if 1<l then for o=48,76 do if l~=4 then local l=d;do return function()local e=e(n,l(l,l),l(l,l));l(1);return e;end;end;break;end;local l=d;local r,o,a=t(2);do return function()local d,t,n,e=e(n,l(l,l),l(l,l)+3);l(4);return(e*r)+(n*o)+(t*a)+d;end;end;break;end;else local l=d;do return function()local e=e(n,l(l,l),l(l,l));l(1);return e;end;end;end end else if l>1 then if-2<l then for o=29,93 do if l~=3 then do return 16777216,65536,256 end;break;end;do return e(1),e(4,t,d,n,e),e(5,t,d,n)end;break;end;else do return e(1),e(4,t,d,n,e),e(5,t,d,n)end;end else if l~=-3 then for o=29,94 do if 1>l then do return e(1),e(4,t,d,n,e),e(5,t,d,n)end;break;end;do return function(n,e,l)if l then local e=(n/2^(e-1))%2^((l-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;break;end;else do return function(l,e,n)if n then local e=(l/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(l%(e+e)>=e)and 1 or 0;end;end;end;end end end end),...)# Vector
+repeat wait() until game:IsLoaded()
+
+local wait = task.wait
+local spawn = task.spawn
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/Loading%20Screen"))()
+wait(0.3)
+
+local CoreGui = cloneref(game:GetService("CoreGui"))
+local HttpService = cloneref(game:GetService("HttpService"))
+local Lighting = cloneref(game:GetService("Lighting"))
+local Players = cloneref(game:GetService("Players"))
+local TweenService = cloneref(game:GetService("TweenService"))
+local UserInputService = cloneref(game:GetService("UserInputService"))
+local Workspace = cloneref(game:GetService("Workspace"))
+
+local plr = Players.LocalPlayer
+
+local list = {
+	["3808223175"] = { id = "4fe2dfc202115670b1813277df916ab2", keyless = false }, -- Jujutsu Infinite
+	["994732206"]  = { id = "e2718ddebf562c5c4080dfce26b09398", keyless = false }, -- Blox Fruits
+	["1511883870"] = { id = "fefdf5088c44beb34ef52ed6b520507c", keyless = false }, -- Shindo Life
+	["6035872082"] = { id = "3bb7969a9ecb9e317b0a24681327c2e2", keyless = false }, -- Rivals
+	["245662005"]  = { id = "21ad7f491e4658e9dc9529a60c887c6e", keyless = true },  -- Jailbreak
+	["7018190066"] = { id = "98f5c64a0a9ecca29517078597bbcbdb", keyless = true },  -- Dead Rails
+	["7074860883"] = { id = "0c8fdf9bb25a6a7071731b72a90e3c69", keyless = false }, -- Arise Crossover
+	["7436755782"] = { id = "e4ea33e9eaf0ae943d59ea98f2444ebe", keyless = true },  -- Grow a Garden
+	["7326934954"] = { id = "00e140acb477c5ecde501c1d448df6f9", keyless = true },  -- 99 Nights in the Forest
+	["7671049560"] = { id = "c0b41e859f576fb70183206224d4a75f", keyless = false }, -- The Forge
+	["6760085372"] = { id = "e380382a05647eabda3a9892f95952c6", keyless = true },  -- Jujutsu: Zero
+	["3317771874"] = { id = "e95ef6f27596e636a7d706375c040de4", keyless = true },  -- Pet Simulator 99
+	["9363735110"] = {id = "4948419832e0bd4aa588e628c45b6f8d", keyless = false }, -- Escape Tsunami For Brainrots!
+	["9509842868"] = {id = "ad4ccd094f8b6f972bff36de80475abe", keyless = true }, -- Garden Horizons
+	["5130394318"] = {id = "3e7a75a970118d0f0cf629369524dc7d", keyless = true }, -- Bizarre Lineage
+}
+
+local executor_name = getexecutorname():match("^%s*(.-)%s*$") or "nigga"
+local game_id = tostring(game.GameId)
+local game_config = list[game_id]
+
+if not game_config then
+	plr:Kick("This game is not supported.")
+	return
+end
+
+local script_id = game_config.id
+local is_key_less = game_config.keyless
+
+for _, exec in ipairs({"Xeno", "Solara"}) do
+	if string.find(executor_name, exec) then
+		Workspace:SetAttribute("low", true)
+		break
+	end
+end
+
+if CoreGui:FindFirstChild("Solix ScreenGui") then
+	CoreGui["Solix ScreenGui"]:Destroy()
+end
+
+if CoreGui:FindFirstChild("Solix Notification") then
+	CoreGui["Solix Notification"]:Destroy()
+end
+
+local config = {
+	File = "solixhub/savedkey.txt",
+	Title = "Solix Hub Free 15+ Games",
+	Description = "Lifetime key access is available for a one time payment of $15 via solixhub.com",
+	Linkvertise = "https://ads.luarmor.net/get_key?for=Solixhub_Free_KeySystem-OWlLHDMCHADk",
+	Shrink = "https://ads.luarmor.net/get_key?for=Solix_Free_Keysystems-pqJCGTqnTsng",
+	Discord = "https://discord.gg/solixhub",
+	Shop = "https://solixhub.com/",
+}
+
+local theme = {
+	Background = Color3.fromRGB(15, 12, 16),
+	Inline = Color3.fromRGB(22, 20, 24),
+	Border = Color3.fromRGB(41, 37, 45),
+	Shadow = Color3.fromRGB(0, 0, 0),
+	Text = Color3.fromRGB(255, 255, 255),
+	InactiveText = Color3.fromRGB(185, 185, 185),
+	Accent = Color3.fromRGB(232, 186, 248),
+	Element = Color3.fromRGB(36, 32, 39),
+	Success = Color3.fromRGB(60, 255, 60),
+	Error = Color3.fromRGB(255, 60, 60)
+}
+
+local error_messages = {
+	KEY_EXPIRED = "Your key has expired. Please renew it to continue.",
+	KEY_BANNED = "This key has been blacklisted. Contact support for assistance.",
+	KEY_HWID_LOCKED = "This key is linked to a different HWID. Please reset it via our bot.",
+	KEY_INCORRECT = "The provided key is incorrect or no longer valid.",
+	KEY_INVALID = "Invalid key format. Please check your key and try again.",
+	SCRIPT_ID_INCORRECT = "The provided script ID does not exist or has been removed.",
+	SCRIPT_ID_INVALID = "This script has been deleted by its owner.",
+	INVALID_EXECUTOR = "Invalid HWID header detected. Your executor may not be supported.",
+	SECURITY_ERROR = "Security validation failed (Cloudflare check). Please retry.",
+	TIME_ERROR = "Invalid client time detected. Please sync your system clock.",
+	UNKNOWN_ERROR = "An unknown error occurred. Please contact support."
+}
+
+local function DeleteFile(v)
+	if isfile(v) then
+		delfile(v)
+	end
+end
+
+local function ToTime(v)
+	if v <= 0 then
+		return "I don't know bro"
+	end
+
+	local days = math.floor(v / 86400)
+	local hours = math.floor((v % 86400) / 3600)
+	local minutes = math.floor((v % 3600) / 60)
+
+	if days > 0 then
+		return string.format("%dd %dh %dm", days, hours, minutes)
+	elseif hours > 0 then
+		return string.format("%dh %dm", hours, minutes)
+	else
+		return string.format("%dm", minutes)
+	end
+end
+
+local function LoadFont()
+	local font_path = "solixhub/Assets/InterSemiBold.ttf"
+
+	if not isfolder("solixhub") then
+		makefolder("solixhub")
+	end
+	if not isfolder("solixhub/Assets") then
+		makefolder("solixhub/Assets")
+	end
+
+	if not isfile(font_path) then
+		writefile(font_path, game:HttpGet("https://github.com/sametexe001/luas/raw/refs/heads/main/fonts/InterSemibold.ttf"))
+	end
+
+	local font_data = {
+		name = "InterSemiBold",
+		faces = {
+			{
+				name = "InterSemiBold",
+				weight = 400,
+				style = "Regular",
+				assetId = getcustomasset(font_path)
+			}
+		}
+	}
+
+	writefile("solixhub/Assets/InterSemiBold.font", HttpService:JSONEncode(font_data))
+	return Font.new(getcustomasset("solixhub/Assets/InterSemiBold.font"))
+end
+
+local font = LoadFont()
+
+local luarmor_api = loadstring(game:HttpGet("https://sdkapi-public.luarmor.net/library.lua"))()
+
+luarmor_api.script_id = script_id
+
+if is_key_less then
+	pcall(function()
+		luarmor_api.load_script()
+	end)
+	return
+end
+
+local BlurEffect = Instance.new("BlurEffect")
+BlurEffect.Name = "Solix Blur"
+BlurEffect.Size = 0
+BlurEffect.Parent = Lighting
+
+local NotificationHolder = Instance.new("ScreenGui")
+NotificationHolder.Name = "Solix Notification"
+NotificationHolder.DisplayOrder = 1002
+NotificationHolder.Parent = CoreGui
+
+local NotificationContainer = Instance.new("Frame", NotificationHolder)
+NotificationContainer.Position = UDim2.new(1, -20, 0, 20)
+NotificationContainer.Size = UDim2.new(0, 0, 1, -40)
+NotificationContainer.BackgroundTransparency = 1
+NotificationContainer.AnchorPoint = Vector2.new(1, 0)
+
+local NotificationLayout = Instance.new("UIListLayout", NotificationContainer)
+NotificationLayout.SortOrder = Enum.SortOrder.LayoutOrder
+NotificationLayout.Padding = UDim.new(0, 10)
+NotificationLayout.HorizontalAlignment = Enum.HorizontalAlignment.Right
+
+local function Notification(title, desc, duration, color)
+	local NotificationFrame = Instance.new("Frame", NotificationContainer)
+	NotificationFrame.BackgroundColor3 = theme.Background
+	NotificationFrame.BackgroundTransparency = 0.3
+	NotificationFrame.BorderSizePixel = 0
+	NotificationFrame.Size = UDim2.new(0, 0, 0, 0)
+	NotificationFrame.ClipsDescendants = true
+	Instance.new("UICorner", NotificationFrame).CornerRadius = UDim.new(0, 5)
+
+	local NotificationPadding = Instance.new("UIPadding", NotificationFrame)
+	NotificationPadding.PaddingTop = UDim.new(0, 8)
+	NotificationPadding.PaddingBottom = UDim.new(0, 8)
+	NotificationPadding.PaddingLeft = UDim.new(0, 8)
+	NotificationPadding.PaddingRight = UDim.new(0, 8)
+
+	local TitleLabel = Instance.new("TextLabel", NotificationFrame)
+	TitleLabel.BackgroundTransparency = 1
+	TitleLabel.FontFace = font
+	TitleLabel.Text = title
+	TitleLabel.TextColor3 = theme.Text
+	TitleLabel.TextSize = 14
+	TitleLabel.TextXAlignment = Enum.TextXAlignment.Left
+	TitleLabel.Size = UDim2.new(0, 0, 0, 15)
+	TitleLabel.AutomaticSize = Enum.AutomaticSize.XY
+	TitleLabel.TextTransparency = 1
+
+	local DescLabel = Instance.new("TextLabel", NotificationFrame)
+	DescLabel.BackgroundTransparency = 1
+	DescLabel.FontFace = font
+	DescLabel.Text = desc
+	DescLabel.TextColor3 = theme.Text
+	DescLabel.TextTransparency = 0.4
+	DescLabel.TextSize = 14
+	DescLabel.TextXAlignment = Enum.TextXAlignment.Left
+	DescLabel.Size = UDim2.new(0, 115, 0, 15)
+	DescLabel.Position = UDim2.new(0, 0, 0, 20)
+	DescLabel.AutomaticSize = Enum.AutomaticSize.Y
+	DescLabel.TextWrapped = false
+
+	wait()
+
+	local sizeX = math.max(TitleLabel.TextBounds.X, DescLabel.TextBounds.X) + 18
+	local sizeY = TitleLabel.TextBounds.Y + DescLabel.TextBounds.Y + 40
+
+	local DurationBar = Instance.new("Frame", NotificationFrame)
+	DurationBar.Position = UDim2.new(0, 0, 0, sizeY - 25)
+	DurationBar.Size = UDim2.new(1, 0, 0, 5)
+	DurationBar.BackgroundColor3 = theme.Inline
+	DurationBar.BorderSizePixel = 0
+	DurationBar.BackgroundTransparency = 1
+	Instance.new("UICorner", DurationBar).CornerRadius = UDim.new(0, 5)
+
+	local AccentBar = Instance.new("Frame", DurationBar)
+	AccentBar.Size = UDim2.new(1, 0, 1, 0)
+	AccentBar.BackgroundColor3 = Color3.fromRGB(math.random(0, 255), math.random(0, 255), math.random(0, 255))
+	AccentBar.BorderSizePixel = 0
+	AccentBar.BackgroundTransparency = 1
+	Instance.new("UICorner", AccentBar).CornerRadius = UDim.new(0, 5)
+
+	local tween_info = TweenInfo.new(1, Enum.EasingStyle.Exponential, Enum.EasingDirection.Out)
+	TweenService:Create(NotificationFrame, tween_info, {BackgroundTransparency = 0}):Play()
+	TweenService:Create(TitleLabel, tween_info, {TextTransparency = 0}):Play()
+	TweenService:Create(DescLabel, tween_info, {TextTransparency = 0.4}):Play()
+	TweenService:Create(DurationBar, tween_info, {BackgroundTransparency = 0}):Play()
+	TweenService:Create(AccentBar, tween_info, {BackgroundTransparency = 0}):Play()
+	TweenService:Create(NotificationFrame, tween_info, {Size = UDim2.new(0, sizeX, 0, sizeY)}):Play()
+	TweenService:Create(AccentBar, TweenInfo.new(duration, Enum.EasingStyle.Linear), {Size = UDim2.new(0, 0, 1, 0)}):Play()
+
+	task.delay(duration + 0.1, function()
+		TweenService:Create(NotificationFrame, tween_info, {BackgroundTransparency = 1}):Play()
+		TweenService:Create(TitleLabel, tween_info, {TextTransparency = 1}):Play()
+		TweenService:Create(DescLabel, tween_info, {TextTransparency = 1}):Play()
+		TweenService:Create(DurationBar, tween_info, {BackgroundTransparency = 1}):Play()
+		TweenService:Create(AccentBar, tween_info, {BackgroundTransparency = 1}):Play()
+		TweenService:Create(NotificationFrame, tween_info, {Size = UDim2.new(0, 0, 0, sizeY)}):Play()
+		task.wait(0.5)
+		NotificationFrame:Destroy()
+	end)
+end
+
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "Solix ScreenGui"
+ScreenGui.ResetOnSpawn = false
+ScreenGui.IgnoreGuiInset = true
+ScreenGui.DisplayOrder = 999
+ScreenGui.Parent = CoreGui
+
+local Overlay = Instance.new("Frame", ScreenGui)
+Overlay.Size = UDim2.new(1, 0, 1, 0)
+Overlay.BackgroundColor3 = Color3.new(0, 0, 0)
+Overlay.BackgroundTransparency = 1
+Overlay.BorderSizePixel = 0
+
+local MainFrame = Instance.new("Frame", ScreenGui)
+MainFrame.Name = "Main"
+MainFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+MainFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
+MainFrame.Size = UDim2.new(0, 0, 0, 0)
+MainFrame.BackgroundColor3 = theme.Background
+MainFrame.BackgroundTransparency = 0.15
+MainFrame.BorderSizePixel = 0
+Instance.new("UICorner", MainFrame).CornerRadius = UDim.new(0, 8)
+
+local MainStroke = Instance.new("UIStroke", MainFrame)
+MainStroke.Color = theme.Border
+MainStroke.Thickness = 1
+MainStroke.Transparency = 1
+MainStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+
+local TitleLabel = Instance.new("TextLabel", MainFrame)
+TitleLabel.Position = UDim2.new(0, 0, 0, 20)
+TitleLabel.Size = UDim2.new(1, 0, 0, 40)
+TitleLabel.BackgroundTransparency = 1
+TitleLabel.FontFace = font
+TitleLabel.Text = config.Title
+TitleLabel.TextColor3 = theme.Accent
+TitleLabel.TextSize = 28
+TitleLabel.TextTransparency = 1
+
+local SubtitleLabel = Instance.new("TextLabel", MainFrame)
+SubtitleLabel.Position = UDim2.new(0, 0, 0, 65)
+SubtitleLabel.Size = UDim2.new(1, 0, 0, 20)
+SubtitleLabel.BackgroundTransparency = 1
+SubtitleLabel.FontFace = font
+SubtitleLabel.Text = config.Description
+SubtitleLabel.TextColor3 = theme.InactiveText
+SubtitleLabel.TextSize = 13
+SubtitleLabel.TextTransparency = 1
+
+local Line = Instance.new("Frame", MainFrame)
+Line.Position = UDim2.new(0.08, 0, 0, 95)
+Line.Size = UDim2.new(0.84, 0, 0, 1)
+Line.BackgroundColor3 = theme.Border
+Line.BorderSizePixel = 0
+Line.BackgroundTransparency = 1
+
+local TextBoxContainer = Instance.new("Frame", MainFrame)
+TextBoxContainer.Position = UDim2.new(0.5, 0, 0, 115)
+TextBoxContainer.AnchorPoint = Vector2.new(0.5, 0)
+TextBoxContainer.Size = UDim2.new(0, 480, 0, 50)
+TextBoxContainer.BackgroundColor3 = theme.Element
+TextBoxContainer.BorderSizePixel = 0
+TextBoxContainer.BackgroundTransparency = 1
+Instance.new("UICorner", TextBoxContainer).CornerRadius = UDim.new(0, 5)
+
+local TextBoxGradient = Instance.new("UIGradient", TextBoxContainer)
+TextBoxGradient.Rotation = 90
+TextBoxGradient.Color = ColorSequence.new({
+	ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 255, 255)),
+	ColorSequenceKeypoint.new(1, Color3.fromRGB(216, 216, 216))
+})
+
+local TextBoxStroke = Instance.new("UIStroke", TextBoxContainer)
+TextBoxStroke.Color = theme.Border
+TextBoxStroke.Thickness = 1
+TextBoxStroke.Transparency = 1
+TextBoxStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+
+local KeyTextBox = Instance.new("TextBox", TextBoxContainer)
+KeyTextBox.Size = UDim2.new(1, -24, 1, 0)
+KeyTextBox.Position = UDim2.new(0, 12, 0, 0)
+KeyTextBox.BackgroundTransparency = 1
+KeyTextBox.FontFace = font
+KeyTextBox.PlaceholderText = "Paste your key here..."
+KeyTextBox.PlaceholderColor3 = theme.InactiveText
+KeyTextBox.Text = ""
+KeyTextBox.TextColor3 = theme.Text
+KeyTextBox.TextSize = 15
+KeyTextBox.ClearTextOnFocus = false
+KeyTextBox.TextTransparency = 1
+
+local Buttons = {}
+local IsMobile = UserInputService.TouchEnabled and not UserInputService.KeyboardEnabled
+
+if IsMobile then
+	Workspace:SetAttribute("mobile", true)
+end
+
+local function AddGradient(v)
+	local gradient = Instance.new("UIGradient", v)
+
+	gradient.Rotation = 90
+	gradient.Color = ColorSequence.new({
+		ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 255, 255)),
+		ColorSequenceKeypoint.new(1, Color3.fromRGB(216, 216, 216))
+	})
+	return gradient
+end
+
+local function CreateButton(text, position, color)
+	local Button = Instance.new("TextButton", MainFrame)
+
+	Button.Position = position
+	Button.AnchorPoint = Vector2.new(0.5, 0)
+	Button.Size = UDim2.new(0, 220, 0, 45)
+	Button.BackgroundColor3 = color
+	Button.FontFace = font
+	Button.Text = text
+	Button.TextColor3 = theme.Text
+	Button.TextSize = IsMobile and 13 or 15
+	Button.BorderSizePixel = 0
+	Button.AutoButtonColor = false
+	Button.BackgroundTransparency = 1
+	Button.TextTransparency = 1
+
+	Instance.new("UICorner", Button).CornerRadius = UDim.new(0, 5)
+
+	AddGradient(Button)
+
+	local ButtonStroke = Instance.new("UIStroke", Button)
+
+	ButtonStroke.Color = theme.Border
+	ButtonStroke.Thickness = 1
+	ButtonStroke.Transparency = 1
+	ButtonStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+
+	table.insert(Buttons, {button = Button, stroke = ButtonStroke})
+	return Button
+end
+
+local Button1, Button2, Button3, Button4
+
+if IsMobile then
+	Button1 = CreateButton("Get Key (Linkvertise)", UDim2.new(0.5, 0, 0, 185), theme.Element)
+	Button2 = CreateButton("Get Key (Shrink)", UDim2.new(0.5, 0, 0, 240), theme.Element)
+	Button3 = CreateButton("Join Discord", UDim2.new(0.5, 0, 0, 295), theme.Element)
+	Button4 = CreateButton("Buy Standard Key", UDim2.new(0.5, 0, 0, 350), theme.Element)
+
+	for _, v in ipairs(Buttons) do
+		v.button.Size = UDim2.new(0, 320, 0, 42)
+	end
+else
+	Button1 = CreateButton("Get Key (Linkvertise)", UDim2.new(0.25, 0, 0, 190), theme.Element)
+	Button2 = CreateButton("Get Key (Shrink)", UDim2.new(0.75, 0, 0, 190), theme.Element)
+	Button3 = CreateButton("Join Discord", UDim2.new(0.25, 0, 0, 255), theme.Element)
+	Button4 = CreateButton("Buy Standard Key", UDim2.new(0.75, 0, 0, 255), theme.Element)
+end
+
+local CloseButton = Instance.new("TextButton", MainFrame)
+CloseButton.Position = UDim2.new(1, -40, 0, 10)
+CloseButton.Size = UDim2.new(0, 30, 0, 30)
+CloseButton.BackgroundColor3 = theme.Element
+CloseButton.FontFace = font
+CloseButton.Text = "X"
+CloseButton.TextColor3 = theme.Text
+CloseButton.TextSize = 18
+CloseButton.BorderSizePixel = 0
+CloseButton.AutoButtonColor = false
+CloseButton.BackgroundTransparency = 1
+CloseButton.TextTransparency = 1
+Instance.new("UICorner", CloseButton).CornerRadius = UDim.new(0, 5)
+
+local CloseStroke = Instance.new("UIStroke", CloseButton)
+CloseStroke.Color = theme.Border
+CloseStroke.Thickness = 1
+CloseStroke.Transparency = 1
+CloseStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+
+local function MakeDraggable(frame)
+	local dragging = false
+	local start = nil
+	local postion = nil
+
+	frame.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			dragging = true
+			start = input.Position
+			postion = frame.Position
+
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragging = false
+				end
+			end)
+		end
+	end)
+
+	UserInputService.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragging then
+				local delta = input.Position - start
+
+				TweenService:Create(frame, TweenInfo.new(0.16, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {
+					Position = UDim2.new(postion.X.Scale, postion.X.Offset + delta.X, postion.Y.Scale, postion.Y.Offset + delta.Y)
+				}):Play()
+			end
+		end
+	end)
+end
+
+local function CloseUI()
+	local TweenData = TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
+
+	TweenService:Create(BlurEffect, TweenData, {Size = 0}):Play()
+	TweenService:Create(Overlay, TweenData, {BackgroundTransparency = 1}):Play()
+
+	TweenService:Create(TitleLabel, TweenData, {TextTransparency = 1}):Play()
+	TweenService:Create(SubtitleLabel, TweenData, {TextTransparency = 1}):Play()
+	TweenService:Create(Line, TweenData, {BackgroundTransparency = 1}):Play()
+	TweenService:Create(TextBoxContainer, TweenData, {BackgroundTransparency = 1}):Play()
+	TweenService:Create(TextBoxStroke, TweenData, {Transparency = 1}):Play()
+	TweenService:Create(KeyTextBox, TweenData, {TextTransparency = 1}):Play()
+	TweenService:Create(CloseButton, TweenData, {BackgroundTransparency = 1, TextTransparency = 1}):Play()
+	TweenService:Create(CloseStroke, TweenData, {Transparency = 1}):Play()
+	TweenService:Create(MainStroke, TweenData, {Transparency = 1}):Play()
+
+	for _, v in ipairs(Buttons) do
+		TweenService:Create(v.button, TweenData, {BackgroundTransparency = 1, TextTransparency = 1}):Play()
+		TweenService:Create(v.stroke, TweenData, {Transparency = 1}):Play()
+	end
+
+	TweenService:Create(MainFrame, TweenData, {Size = UDim2.new(0, 0, 0, 0)}):Play()
+	wait(0.35)
+	BlurEffect:Destroy()
+	ScreenGui:Destroy()
+end
+
+local function ValidateKey(key)
+	local cleaned_key = key:gsub("%s", "")
+
+	if not string.match(cleaned_key, "^[A-Za-z0-9]+$") or #cleaned_key ~= 32 then
+		Notification("Error", "Invalid key format. Key must be 32 characters.", 5)
+		return false
+	end
+
+	if cleaned_key ~= key then
+		Notification("Info", "Extra spaces detected, verifying without spaces...", 5)
+	end
+
+	local success, status = pcall(luarmor_api.check_key, cleaned_key)
+
+	if not success then
+		Notification("Error", "Network error. Please try again.", 5)
+		return false
+	end
+
+	if status.code == "KEY_VALID" then
+		if not isfile(config.File) then
+			pcall(writefile, config.File, cleaned_key)
+		else
+			if readfile(config.File) ~= cleaned_key then
+				pcall(writefile, config.File, cleaned_key)
+			end
+		end
+
+		script_key = cleaned_key
+
+		Notification("Success", "Key expires in: " .. ToTime(status.data.auth_expire - os.time()), 5)
+
+		wait(1.5)
+		CloseUI()
+
+		if not (
+			game_id == "3808223175" -- Jujutsu Infinite
+				or game_id == "994732206" -- Blox Fruits
+				or game_id == "1511883870" -- Shindo Life
+				or game_id == "7018190066" -- Dead Rails
+				or game_id == "7671049560" -- The Forge
+				or game_id == "9363735110" -- Escape Tsunami For Brainrots!
+				or game_id == "9509842868" -- Garden Horizons
+				or game_id == "5130394318" -- Bizarre Lineage
+			)
+				and Workspace:GetAttribute("low") then
+			plr:Kick("This executor is not supported for this game.")
+		end
+
+		pcall(function()
+			luarmor_api.load_script()
+		end)
+
+		return true
+	end
+
+	if error_messages[status.code] then
+		if status.code == "KEY_HWID_LOCKED" or status.code == "INVALID_EXECUTOR" or status.code == "SECURITY_ERROR" or status.code == "UNKNOWN_ERROR" then
+			plr:Kick(error_messages[status.code])
+		else
+			DeleteFile(config.File)
+			Notification("Error", error_messages[status.code], 5)
+		end
+		return false
+	end
+
+	plr:Kick("Key check failed:\nCode: " .. status.code)
+	return false
+end
+
+for _, button in ipairs({Button1, Button2, Button3, Button4}) do
+	button.MouseEnter:Connect(function()
+		local hoverSize = IsMobile and UDim2.new(0, 330, 0, 45) or UDim2.new(0, 230, 0, 48)
+		TweenService:Create(button, TweenInfo.new(0.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Size = hoverSize}):Play()
+	end)
+	button.MouseLeave:Connect(function()
+		local normalSize = IsMobile and UDim2.new(0, 320, 0, 42) or UDim2.new(0, 220, 0, 45)
+		TweenService:Create(button, TweenInfo.new(0.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Size = normalSize}):Play()
+	end)
+	button.MouseButton1Down:Connect(function()
+		local clickSize = IsMobile and UDim2.new(0, 310, 0, 40) or UDim2.new(0, 210, 0, 42)
+		TweenService:Create(button, TweenInfo.new(0.08), {Size = clickSize}):Play()
+	end)
+	button.MouseButton1Up:Connect(function()
+		local normalSize = IsMobile and UDim2.new(0, 320, 0, 42) or UDim2.new(0, 220, 0, 45)
+		TweenService:Create(button, TweenInfo.new(0.08), {Size = normalSize}):Play()
+	end)
+end
+
+Button1.MouseButton1Click:Connect(function()
+	setclipboard(config.Linkvertise)
+	Notification("Link Copied", "Linkvertise link copied to clipboard", 5)
+end)
+
+Button2.MouseButton1Click:Connect(function()
+	setclipboard(config.Shrink)
+	Notification("Link Copied", "Shrink link copied to clipboard", 5)
+end)
+
+Button3.MouseButton1Click:Connect(function()
+	setclipboard(config.Discord)
+	Notification("Discord Copied", "Discord invite copied to clipboard", 5)
+end)
+
+Button4.MouseButton1Click:Connect(function()
+	setclipboard(config.Shop)
+	Notification("Link Copied", "Standard key shop link copied", 5)
+end)
+
+KeyTextBox.FocusLost:Connect(function()
+	if KeyTextBox.Text == "" then
+		return
+	end
+
+	if ValidateKey(KeyTextBox.Text) then
+		--?
+	else
+		KeyTextBox.Text = ""
+	end
+end)
+
+CloseButton.MouseButton1Click:Connect(CloseUI)
+
+CloseButton.MouseEnter:Connect(function()
+	TweenService:Create(CloseButton, TweenInfo.new(0.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Size = UDim2.new(0, 35, 0, 35)}):Play()
+end)
+
+CloseButton.MouseLeave:Connect(function()
+	TweenService:Create(CloseButton, TweenInfo.new(0.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Size = UDim2.new(0, 30, 0, 30)}):Play()
+end)
+
+MakeDraggable(MainFrame)
+
+if IsMobile then
+	MainFrame.Size = UDim2.new(0, 380, 0, 440)
+	TitleLabel.TextSize = 22
+	SubtitleLabel.TextSize = 10
+	TextBoxContainer.Size = UDim2.new(0, 340, 0, 45)
+end
+
+local final_size = IsMobile and UDim2.new(0, 380, 0, 440) or UDim2.new(0, 580, 0, 340)
+local tween_info3 = TweenInfo.new(1, Enum.EasingStyle.Exponential, Enum.EasingDirection.Out)
+
+TweenService:Create(BlurEffect, TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Size = 24}):Play()
+TweenService:Create(Overlay, TweenInfo.new(0.3), {BackgroundTransparency = 0.3}):Play()
+TweenService:Create(MainFrame, TweenInfo.new(0.3, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {Size = final_size}):Play()
+
+wait(0.3)
+
+TweenService:Create(TitleLabel, tween_info3, {TextTransparency = 0}):Play()
+TweenService:Create(SubtitleLabel, tween_info3, {TextTransparency = 0}):Play()
+TweenService:Create(Line, tween_info3, {BackgroundTransparency = 0}):Play()
+TweenService:Create(TextBoxContainer, tween_info3, {BackgroundTransparency = 0}):Play()
+TweenService:Create(TextBoxStroke, tween_info3, {Transparency = 0}):Play()
+TweenService:Create(KeyTextBox, tween_info3, {TextTransparency = 0}):Play()
+TweenService:Create(CloseButton, tween_info3, {BackgroundTransparency = 0, TextTransparency = 0}):Play()
+TweenService:Create(CloseStroke, tween_info3, {Transparency = 0}):Play()
+TweenService:Create(MainStroke, tween_info3, {Transparency = 0}):Play()
+
+for _, v in ipairs(Buttons) do
+	TweenService:Create(v.button, tween_info3, {BackgroundTransparency = 0, TextTransparency = 0}):Play()
+	TweenService:Create(v.stroke, tween_info3, {Transparency = 0}):Play()
+end
+
+spawn(function()
+	while task.wait(0.3) do
+		local saved_key = (isfile(config.File) and readfile(config.File)) or (script_key ~= "" and script_key) or nil
+
+		if saved_key and ValidateKey(saved_key) then
+			return 
+		end
+	end
+end)
